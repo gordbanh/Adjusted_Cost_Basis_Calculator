@@ -1,0 +1,13 @@
+﻿Transaction Date,Settlement Date,Action,Symbol,Description,Quantity,Price,Gross Amount,Commission,Net Amount,Currency,Account #,Activity Type,Account Type
+2024-07-09 0:00,2024-07-09 0:00,REI,Stock1,,800,,,,-8000,CAD,1111,Dividend reinvestment,Individual margin
+2024-06-25 0:00,2024-06-26 0:00,Buy,Stock3,,6,,,,-2000,USD,1111,Trades,Individual margin
+2024-05-13 0:00,2024-05-15 0:00,Buy,Stock2.TO,,800,,,,-8000,CAD,1111,Trades,Individual margin
+2024-02-14 0:00,2024-02-16 0:00,Buy,Stock2.TO,,2000,,,,-22000,CAD,1111,Trades,Individual margin
+2022-01-18 0:00,2022-01-20 0:00,Buy,Stock1.TO,,800,,,,-8000,CAD,1111,Trades,Individual margin
+2021-10-28 0:00,2021-11-01 0:00,Buy,Stock1.TO,,2000,,,,-22000,CAD,1111,Trades,Individual margin
+2024-07-09 0:00,2024-07-09 0:00,REI,Stock1,,400,,,,-8000,CAD,2222,Dividend reinvestment,Individual TFSA
+2024-06-25 0:00,2024-06-26 0:00,Buy,Stock3,,3,,,,-2000,USD,2222,Trades,Individual TFSA
+2024-05-13 0:00,2024-05-15 0:00,Buy,Stock2.TO,,400,,,,-8000,CAD,2222,Trades,Individual TFSA
+2024-02-14 0:00,2024-02-16 0:00,Buy,Stock2.TO,,1000,,,,-22000,CAD,2222,Trades,Individual TFSA
+2022-01-18 0:00,2022-01-20 0:00,Buy,Stock1.TO,,400,,,,-8000,CAD,2222,Trades,Individual TFSA
+2021-10-28 0:00,2021-11-01 0:00,Buy,Stock1.TO,,1000,,,,-22000,CAD,2222,Trades,Individual TFSA

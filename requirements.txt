@@ -1,0 +1,6 @@
+# Libraries you will need to install
+pandas
+numpy
+openpyxl
+argparse
+functools
